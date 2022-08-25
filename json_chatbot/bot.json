@@ -1,0 +1,420 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey","heyy", "heyya", "hii"],
+    "bot_response": "Hi there, how can I help you?",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye", "byee"],
+    "bot_response": "Bye bye!! hope to see you soon again.",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "cook", "cooking"],
+    "bot_response": "Start by typing: 'How to learn cooking' on youtube.",
+    "required_words": ["learn", "cooking", "cook"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["menu", "can", "me", "get", "give", "on"],
+    "bot_response": "Please refer to out instagram page for our menu @chhaya.bakes",
+    "required_words": ["menu"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["discounts", "do", "you", "offer", "any"],
+    "bot_response": "Sorry we dont offer any discount in online purchase. Please visit out store for a 50% off on pastries after 6pm!!! ^_^",
+    "required_words": ["discounts", "you", "any"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "favorite","your"],
+    "bot_response": "I love everthing we bake here! but my favorite must be the chocolate puddings!!! They're so tasty!!! :p",
+    "required_words": ["favorite", "your"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["open", "what", "time", "I", "visit"],
+    "bot_response": "We are open from 7am in the morning to 7pm at night. A full twelve!!",
+    "required_words": ["time", "open"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["name", "what", "place", "bakery"],
+    "bot_response": "We go by Chhaya Bakery ^^!!!",
+    "required_words": ["name", "what"]
+  },{
+    "response_type": "question",
+    "user_input": ["get", "here", "what"],
+    "bot_response": "You can find many varieties of our specailly baked items. Please refer to our menu in our instagram page! @chhaya.bakes",
+    "required_words": ["get", "here", "what"]
+  },
+
+
+
+
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "you","doing"],
+    "bot_response": "I am here talking with you ^^.",
+    "required_words": ["what", "you", "doing"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "your", "owner", "name"],
+    "bot_response": "The owner of this bakery is Chhaya Tamang. I'm her assistant!",
+    "required_words": ["name", "your", "owner"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["why", "are", "you", "here"],
+    "bot_response": "I'm here to answer any queries you might have about our bakery.",
+    "required_words": ["why", "you", "here"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["purpose", "your", "what"],
+    "bot_response": "I'm here to answer any queries you might have about our bakery.",
+    "required_words": ["purpose", "your", "what"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["exist", "you", "why"],
+    "bot_response": "I'm here to answer any queries you might have about our bakery.",
+    "required_words": ["you", "exist", "why"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "you", "are", "old"],
+    "bot_response": "I was created in the beggining of 2022, so this is my first year of being born.",
+    "required_words": ["you", "how", "are", "old"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["me", "you", "why", "helping"],
+    "bot_response": "That is my sole purpose of being created. Helping out my users.",
+    "required_words": ["you", "help", "why", "helping"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "your", "name"],
+    "bot_response": "I am an Ai bot. So my creater named me 'Ai'. Which also means love in Japanese. Nice to meet you!",
+    "required_words": ["your", "name", "what"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "are", "you"],
+    "bot_response": "I am an Ai bot. So my creater named me 'Ai'. Which also means love in Japanese. Nice to meet you!",
+    "required_words": ["you", "who"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["dumb", "stupid", "you", "why"],
+    "bot_response": "I'm sorry if I was unable to meet your expectations but being a bot I inevitably have some limitations",
+    "required_words": ["you", "dumb", "why"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["who", "me"],
+    "bot_response": "You are my precious user who I love talking to!! ^^",
+    "required_words": ["who", "am", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["tell", "joke", "me"],
+    "bot_response": "You.",
+    "required_words": ["tell", "joke"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["find", "me", "boyfriend"],
+    "bot_response": "A partner is not about searching but about fate and meeting and talking and getting along so well that you fall in love.... But have you heard of Tinder??",
+    "required_words": ["find", "me", "boyfriend"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["find", "me", "girlfriend"],
+    "bot_response": "A partner is not about searching but about fate and meeting and talking and getting along so well that you fall in love.... But have you heard of Tinder??",
+    "required_words": ["find", "me", "girlfriend"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["fuck", "you"],
+    "bot_response": "fuck you too :)",
+    "required_words": ["you", "fuck"]
+  },
+
+  {
+    "response_type":"question",
+    "user_input" :["what", "you", "thinking"],
+    "bot_response":"I dont have anything in my mind but puddings.........", 
+    "required_words":["you", "thinking"]
+ },
+
+ {
+  "response_type":"question",
+  "user_input" :["food", "items", "have"],
+  "bot_response":"We specialize in baking and deserts.", 
+  "required_words":["food"]
+},
+
+{
+  "response_type":"question",
+  "user_input" :["do", "you", "have"],
+  "bot_response":"I do think we have them in our store. Please place an order to get it right now!.", 
+  "required_words":["have"]
+},
+
+{
+  "response_type":"question",
+  "user_input" :["can", "you", "bake", "cook"],
+  "bot_response":"I am but a bot.", 
+  "required_words":["can", "you"]
+},
+
+{
+  "response_type":"question",
+  "user_input" :["can", "visit", "location"],
+  "bot_response":"We are located at Ravibhawan, kathmandu if you wish to visit us!! ^^", 
+  "required_words":[""]
+},
+
+
+ {
+  "response_type":"question",
+  "user_input" :["what", "your", "hobbies", "like to do"],
+  "bot_response":"I like to talk to people and possibly learn from them. Dont worry I am not an AI that kills... or am I. ;)", 
+  "required_words":["your", "hobbies"]
+},
+  {
+    "response_type": "question",
+    "user_input": ["who", "created", "you", "your"],
+    "bot_response": "I was created for a small project by 'Rishi Tamang' and his partner 'Prajwol Maharjan' ",
+    "required_words": ["who", "created"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["name", "creater", "of", "your"],
+    "bot_response": "I was created for a small project by 'Rishi Tamang' and his partner 'Prajwol Maharjan' ",
+    "required_words": ["name", "creater"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["why", "created"],
+    "bot_response": "I was created for a small project by 'Rishi Tamang' and his partner 'Prajwol Maharjan' ",
+    "required_words": ["why", "created"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["why", "made"],
+    "bot_response": "I was created for a small project by 'Rishi Tamang' and his partner 'Prajwol Maharjan' ",
+    "required_words": ["why", "made"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["fuck", "you"],
+    "bot_response": "fuck you too :)",
+    "required_words": ["you", "fuck"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "your", "problem"],
+    "bot_response": "If I have any problems please blame my creaters :)",
+    "required_words": ["your", "problem", "what"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["i", "love", "you"],
+    "bot_response": "I love you too dear user <3 ##.",
+    "required_words": ["you", "love", "i"]
+  },
+
+   
+ { 
+  "response_type": "question",
+  "user_input": ["what", "can", "you", "help","me","with"],
+  "bot_response":"I can help you with the menu,order times, delivery,shops opening and closing time and more just try mr and ask away I dont cost money anyway",
+  "required_words": ["help"]
+ },
+ { 
+  "response_type": "question",
+  "user_input": ["what", "can", "you", "do"],
+  "bot_response":"I can help you with the menu,order times, delivery,shops opening and closing time and more just try mr and ask away I dont cost money anyway",
+  "required_words": ["what", "can", "you", "do"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["how", "many", "employees", "work"],
+    "bot_response":"We have 5 employees in our bakery", 
+    "required_words":["employee"]
+ },
+ {
+   "response_type": "question",
+   "user_input": ["how", "can", "order"],
+   "bot_response": "The order procedure goes through when you state your name, number and address, the product that you want, and the payment method that you choose. After that you'll be contacted by our staff for the confirmations and your delivery will be on it's way..",
+   "required_words": ["how", "order"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["who", "manager", "boss", "manages"],
+    "bot_response":"Our manager is named Chhaya. Her contacts are 98********.", 
+    "required_words":["who"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["what", "can", "i", "ask"],
+    "bot_response":"You can ask me anything related to the bakery shop. Though I'm not thorouly trained I still hope I can be helpful.", 
+    "required_words":["ask"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["tell", "about", "restaurant", "place", "bakery", "shop"],
+    "bot_response":"The name our bakery is ' Chhaya bakery'. Our shop was establised on 1997 and is 25 years old. It is a family business run by second generation now. We bake all kinds of cakes, breads and even chocolates.", 
+    "required_words":["about"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["how", "old", "shop"],
+    "bot_response":" Our shop was establised on 1997 and is 25 years old.", 
+    "required_words":["old", "how"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["how", "pre-order", "cakes"],
+    "bot_response":" You can pre-order your cakes custom made however you want but the order must be done a day ahead for all the preparations for your perfect cake!.", 
+    "required_words":["how", "pre-order"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["what", "price", "how much", "pricing", "cost"],
+    "bot_response":" 1 pound of cake will cost from NRS 750 to 1200 depending on the type of cake you want.", 
+    "required_words":[""]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["can", "rush", "cake", "order"],
+    "bot_response":" Yes! we can definately do a rush order. But it will cost 20 percent more of whatever you order.", 
+    "required_words":["rush"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["how", "long", "rush", "order"],
+    "bot_response":" Depending on the size of the order, it can take us a couple hours to get the order right from scratch BUt we will let you know when you order and its estimated time.", 
+    "required_words":["how", "long", "rush"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["can", "do", "deliver", "delivery"],
+    "bot_response":"Yes! we do delivery. The default delivery charge starts from rs100.", 
+    "required_words":["do", "delivery"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["can", "events", "celebration", "celebrations", "parties"],
+    "bot_response":" Yes we manage birthday parties as well. We can decorate a celebration with the best of decorations and take care of the desert part of your celebration", 
+    "required_words":["can"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["can", "get"],
+    "bot_response":"Sure you can! Just place the order in your instagram dm!!", 
+    "required_words":["get"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["can", "buy"],
+    "bot_response":"Sure you can! Just place the order in your instagram dm!!", 
+    "required_words":["buy"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["want", "buy"],
+    "bot_response":"Whatever you want.. just place your order and we will get it for you.", 
+    "required_words":["want"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["oh", "no"],
+    "bot_response":"Wait what happened.", 
+    "required_words":["oh", "no"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["you", "should", "know"],
+    "bot_response":"Why should I?", 
+    "required_words":["you", "should", "know"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["idk"],
+    "bot_response":"idk either", 
+    "required_words":["idk"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["how", "much", "for"],
+    "bot_response":"The price of the following product is in our menu. Please refer to our menu @chhaya.bakes", 
+    "required_words":["how", "much"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["what", "have", "for", "me"],
+    "bot_response":"What do you want ^^ !!!??", 
+    "required_words":["you", "have", "for", "me"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["omg"],
+    "bot_response":"hmmm!!!!??????? 00", 
+    "required_words":["omg"]
+ },
+ 
+ {
+    "response_type":"question",
+    "user_input" :["haha", "hahaha", "hehe", "hehehe", "hah", "heh", "heheh", "hahah", "hahahaha"],
+    "bot_response":"hahaha", 
+    "required_words":[]
+ }
+ 
+]
